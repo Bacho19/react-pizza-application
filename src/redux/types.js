@@ -1,0 +1,7 @@
+export const SET_SORT_BY = 'SET_SORT_BY'
+export const SET_CATEGORY = 'SET_CATEGORY'
+export const SET_PIZZAS = 'SET_PIZZAS'
+export const SET_LOADING = 'SET_LOADING'
+export const ADD_PIZZAS_TO_CART = 'ADD_PIZZAS_TO_CART'
+export const REMOVE_ALL_PIZZAS = 'REMOVE_ALL_PIZZAS'
+export const REMOVE_PIZZA = 'REMOVE_PIZZA'
